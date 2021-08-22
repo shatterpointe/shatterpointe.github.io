@@ -1,7 +1,17 @@
-body {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 19px;
+.body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
   color: #ffffff;
-  overflow-x: hidden;
-  background: #708090;
+}
+
+.h1 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 24px;
+	color: #d05d88;
+}
+
+.h2 {
+	font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #b5acaf;
 }
