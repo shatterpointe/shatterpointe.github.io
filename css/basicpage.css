@@ -1,7 +1,11 @@
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
-  color: #ffffff;
+	background-color: linen;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: #ffffff;
 }
 
 h1 {
